@@ -57,6 +57,8 @@ Email: usuario@teste.com
 Senha: usuario
 </h3>
 
+deploy da aplicação: https://foodexplorercjf.netlify.app/
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
